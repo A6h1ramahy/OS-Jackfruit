@@ -129,7 +129,7 @@ sudo rmmod monitor
 
 **Description:** Shows successful creation of `/dev/container_monitor` after loading kernel module.
 
-➡️ ![alt text](screenshots/01.jpeg)
+ ![alt text](screenshots/01.jpeg)
 
 ---
 
@@ -137,7 +137,7 @@ sudo rmmod monitor
 
 **Description:** Demonstrates successful creation of two containers (`alpha` and `beta`) with supervisor running.
 
-➡️ ![alt text](screenshots/02.jpeg)
+ ![alt text](screenshots/02.jpeg)
 
 ---
 
@@ -145,7 +145,7 @@ sudo rmmod monitor
 
 **Description:** Displays active containers along with their respective PIDs.
 
-➡️ ![alt text](screenshots/03.jpeg)
+ ![alt text](screenshots/03.jpeg)
 
 ---
 
@@ -153,7 +153,7 @@ sudo rmmod monitor
 
 **Description:** Shows log file output generated for container execution.
 
-➡️ ![alt text](screenshots/04.jpeg)
+ ![alt text](screenshots/04.jpeg)
 
 ---
 
@@ -161,7 +161,7 @@ sudo rmmod monitor
 
 **Description:** Kernel log showing warning when container exceeds soft memory limit.
 
-➡️ ![alt text](screenshots/05.jpeg)
+ ![alt text](screenshots/05.jpeg)
 
 ---
 
@@ -169,7 +169,7 @@ sudo rmmod monitor
 
 **Description:** Kernel log showing container termination when hard limit is exceeded.
 
-➡️ ![alt text](screenshots/06.jpeg)
+ ![alt text](screenshots/06.jpeg)
 
 ---
 
@@ -177,7 +177,7 @@ sudo rmmod monitor
 
 **Description:** Output of `stop` command confirming container termination.
 
-➡️ ![alt text](screenshots/07.jpeg)
+ ![alt text](screenshots/07.jpeg)
 
 ---
 
@@ -185,7 +185,7 @@ sudo rmmod monitor
 
 **Description:** Confirms proper cleanup (no `<defunct>` processes present).
 
-➡️ ![alt text](screenshots/08.jpeg)
+ ![alt text](screenshots/08.jpeg)
 
 ---
 
